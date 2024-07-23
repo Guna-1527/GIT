@@ -18,3 +18,9 @@
     git checkout branch
     git branch
     git checkout -b "branch name"
+    git branch -d "branch name"
+    git push origin --delete "branch name"
+
+# PULL CHANGES AND MERGE BRANCH
+    git pull origin main
+    git merge "branch name"
