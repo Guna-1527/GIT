@@ -31,3 +31,4 @@
 
 # GIT TAG
     git tag "tag name"
+    git push origin "tag name"
