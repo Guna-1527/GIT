@@ -29,3 +29,5 @@
     git branch --merged
     git branch --no-merged
 
+# GIT TAG
+    git tag "tag name"
