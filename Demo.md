@@ -10,5 +10,11 @@
     git stash clear
     git stash save "name"
     git stash apply "id"
-    
-    
+
+    -- "git restore "file name" // it help to retore the file to the last commit
+
+# GIT BRANCH
+    git branch "branch name"
+    git checkout branch
+    git branch
+    git checkout -b "branch name"
