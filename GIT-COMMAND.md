@@ -32,3 +32,8 @@
 # GIT TAG
     git tag "tag name"
     git push origin "tag name"
+    git checkout "tag name" or "commit-id"
+    git tag --list
+
+# GIT CLONE
+    git clone "shh-link"
